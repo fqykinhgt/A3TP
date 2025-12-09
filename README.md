@@ -52,7 +52,7 @@ pip install tensorboard==2.13.0 ipywidgets==8.0.6
 
 ### CheckPoints
 Download the model trained using the PointNet network below, pay attention to modifying the model address of [function_pool.py](https://github.com/fqykinhgt/A3TP/blob/main/function_pool.py)
+
 ### DataSets
-
-
+Please download the dataset from the Dataset
 
