@@ -51,7 +51,7 @@ pip install tensorboard==2.13.0 ipywidgets==8.0.6
 ```
 
 ### CheckPoints
-
+Download the model trained using the PointNet network below, pay attention to modifying the model address of function_pool.py
 ### DataSets
 
 
