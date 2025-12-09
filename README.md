@@ -39,52 +39,15 @@ conda activate A3TP
 pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 --index-url https://download.pytorch.org/whl/cu121
 ```
 
-3. **Install scientific computing and data processing libraries:**
+3. **Install other dependencies:**
 
 ```bash
 pip install numpy==1.24.0 scipy==1.10.0 scikit-learn==1.3.0
 pip install pandas==2.0.2 matplotlib==3.7.0 seaborn==0.12.2
-```
-
-4. **Install 3D geometry and visualization libraries:**
-
-```bash
 pip install pyvista==0.39.0 vtk==9.2.0 open3d==0.17.0
-```
-
-5. **Install point cloud processing and computer vision libraries:**
-
-```bash
 pip install laspy==2.5.0 pillow==9.5.0 imageio==2.31.1
-```
-
-6. **Install utilities and data handling libraries:**
-
-```bash
 pip install tqdm==4.65.0 pyproj==3.5.0 chardet==5.1.0 lxml==4.9.2
-```
-
-7. **Install additional ML tools:**
-
-```bash
 pip install tensorboard==2.13.0 ipywidgets==8.0.6
 ```
 
-### Verify Installation
-After completing the installation, you can verify that all packages are installed correctly by running:
 
-```bash
-python -c "import torch; import numpy; print('Installation successful!')"
-```
-
-## Usage
-*(Note: Add usage instructions here based on your project structure)*
-
-## Citation
-*(Note: Add citation information here if you have a paper)*
-
-## License
-*(Note: Add license information here)*
-
-## Contact
-For questions or issues, please open an issue on the GitHub repository.
