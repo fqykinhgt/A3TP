@@ -54,5 +54,10 @@ pip install tensorboard==2.13.0 ipywidgets==8.0.6
 Download the [model](https://huggingface.co/datasets/qiyong2025/TransmissionTowerPointCloud/blob/main/pointnet.pth) trained using the PointNet network below, pay attention to modifying the model address of [function_pool.py](https://github.com/fqykinhgt/A3TP/blob/main/function_pool.py)
 
 ### DataSets--The data is still being uploaded ...
-Please download the [dataset](https://huggingface.co/datasets/qiyong2025/TransmissionTowerPointCloud/blob/main/dataset) from the Dataset
+Please download the [dataset](https://huggingface.co/datasets/qiyong2025/TransmissionTowerPointCloud/blob/main/data.zip) from the Dataset
+
+
+
+
+
 
