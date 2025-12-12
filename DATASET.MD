@@ -33,7 +33,7 @@ dataset/
 │── tower_002.txt
 │── tower_003.txt
 │── ...
-└── README.md
+└── 
 ```
 
 ------
@@ -79,4 +79,5 @@ plotter.show()
 ## **4. License**
 
 This dataset is provided **for research purposes only** and commercial use is prohibited.
+
  For commercial licensing, please contact the dataset provider.
